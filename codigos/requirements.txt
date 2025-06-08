@@ -3,3 +3,4 @@ plotly
 unidecode
 missingno
 pandas
+csv
