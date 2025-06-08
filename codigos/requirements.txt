@@ -2,3 +2,4 @@ streamlit
 plotly
 unidecode
 missingno
+pandas
